@@ -1,0 +1,30 @@
+Gareth
+20/01/1980
+Cat Sitter
+£12000
+%
+Devdetta
+27/01/1994
+Smash Player
+£11000
+%
+Elliott
+4/4/1994
+Trainer
+£78000
+&
+Jeff
+Dog
+%
+Bob
+Cat
+%
+Cosmo
+Tortoise
+%
+Sir Meowsalot
+Dolphin
+%
+Shelly
+T-Rex
+
